@@ -1,1 +1,1 @@
-This repo have some companion code to the [blog](http://www.songfengting.com)
+companion code to the [blog](http://www.songfengting.com)
